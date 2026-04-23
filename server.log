@@ -1,0 +1,29 @@
+INFO Server started successfully
+INFO User admin logged in
+ERROR Database connection failed
+INFO Retrying connection
+FAILED LOGIN Server overload detected
+FAILED LOGIN from 192.168.1.10
+INFO Backup started
+ERROR Timeout while fetching data
+INFO Backup completed
+Disk space critically low
+FAILED LOGIN from 10.0.0.5
+INFO User logout
+INFO New user registered
+ERROR Invalid API request
+INFO Scheduled job executed
+CRITICAL Memory leak detected
+FAILED LOGIN from 172.16.0.2
+INFO Cache cleared
+ERROR File not found
+INFO Connection established
+CRITICAL Network failure
+INFO System health check passed
+FAILED LOGIN from 192.168.1.25
+ERROR Permission denied
+INFO User profile updated
+CRITICAL CPU usage too high
+INFO Logs archived
+FAILED LOGIN from 10.10.10.10
+INFO Shutdown initiated
